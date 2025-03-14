@@ -1,0 +1,87 @@
+@font-face{
+    font-family: williamtoonsfont;
+    src:url(PUSAB___.otf)
+}
+
+*{
+
+    font-family: williamtoonsfont;
+}
+
+p{
+
+    size: 34px;
+
+}
+
+#img1 {
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+
+#div1{
+    background-color: #dfb11d;
+    width: 100%;
+    height: 100%;
+}
+ 
+
+body {
+
+    padding: 0;
+    margin: 0;
+
+}
+
+hr{
+
+    border: 3px dashed #FFCE00;
+    border-radius: 4px;
+
+    
+}
+
+#btn1{
+
+    border-style: outset;
+    background-color: #FFCE00;
+    border-color: #dfb11d;
+    border-radius: 1px;
+    margin-top: 40px;
+    margin-left: 40px;
+    text-decoration: none;
+    color: #8a742c;
+
+    padding: 2px;
+}
+
+
+#h11{
+
+    color: #dfb11d;
+    text-align: center;
+
+}
+
+iframe{
+
+    align-items: center;
+
+}
+
+div.desc{
+    color: #8a742c;
+
+    text-align: center;
+}
+
+#back_arrow{
+
+    width: 100px;
+    height: 100px;
+}
+
+a.span{
+    text-decoration: none;
+}
